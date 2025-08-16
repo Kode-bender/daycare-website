@@ -80,7 +80,7 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      details: "hello@brightlittlestars.com",
+      details: "hello@amzingdaycare.com",
       subtitle: "We reply within 24 hours",
       color: "text-secondary",
       bg: "bg-secondary-light"
@@ -96,8 +96,8 @@ const Contact = () => {
     {
       icon: Clock,
       title: "Hours",
-      details: "Mon-Fri: 5AM-10PM (Day)",
-      subtitle: "Mon-Fri: 6PM-8AM (Night Care)",
+      details: "Mon-Sat: 5AM-10PM (Day)",
+      subtitle: "Mon-Sat: 6PM-8AM (Night Care)",
       color: "text-success",
       bg: "bg-success-light"
     }

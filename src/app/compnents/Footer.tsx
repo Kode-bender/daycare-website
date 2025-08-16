@@ -64,13 +64,13 @@ const Footer = () => {
                 <Phone className="h-4 w-4 mt-0.5 opacity-80" />
                 <div>
                   <p className="opacity-90">+254790921807</p>
-                  <p className="text-xs opacity-70">Mon-Fri 5AM-6PM</p>
+                  <p className="text-xs opacity-70">Mon-Sat 5AM-10PM</p>
                 </div>
               </li>
               <li className="flex items-start space-x-3">
                 <Mail className="h-4 w-4 mt-0.5 opacity-80" />
                 <div>
-                  <p className="opacity-90">hello@brightlittlestars.com</p>
+                  <p className="opacity-90">hello@amazingdaycare.com</p>
                   <p className="text-xs opacity-70">We reply within 24 hours</p>
                 </div>
               </li>
@@ -93,8 +93,8 @@ const Footer = () => {
                 <span className="opacity-90">Operating Hours</span>
               </div>
               <ul className="space-y-1 ml-6 opacity-80">
-                <li>Monday - Friday: 5:00 AM - 10:30 PM</li>
-                <li>Monday - Friday: 6:00 PM - 8:00 AM</li>
+                <li>Monday - Saturday: 5:00 AM - 10:30 PM</li>
+                <li>Monday - Saturday: 6:00 PM - 8:00 AM</li>
               </ul>
               <div className="mt-4 p-3 bg-primary-light/20 rounded-lg">
                 <p className="text-xs opacity-90">
