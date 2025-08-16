@@ -109,7 +109,7 @@ const Footer = () => {
         <div className="border-t border-primary-light/20 mt-12 pt-8">
           <div className="flex flex-col md:flex-row justify-between items-center space-y-4 md:space-y-0">
             <p className="text-sm opacity-80">
-              © 2024 Bright Little Stars Daycare. All rights reserved.
+              © 2024 Amazing Daycare. All rights reserved.
             </p>
             <div className="flex space-x-6 text-sm opacity-80">
               <Link href="/privacy" className="hover:opacity-100 transition-smooth">
