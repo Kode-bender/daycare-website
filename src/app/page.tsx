@@ -199,7 +199,7 @@ const Home = () => {
                 </h3>
                 <p className="text-muted-foreground mb-6">
                   We understand working parents need flexibility. Our extended hours 
-                  and part-time options fit your family's schedule.
+                  and part-time options fit your family&apos;s schedule.
                 </p>
                 <div className="grid grid-cols-2 gap-4 text-sm">
                   <div className="bg-primary-light p-3 rounded-lg">
